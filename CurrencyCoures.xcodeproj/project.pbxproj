@@ -7,45 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AF383D6D229870DC000C07CF /* LVL.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D49229870DC000C07CF /* LVL.png */; };
-		AF383D6E229870DC000C07CF /* CHF.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D4A229870DC000C07CF /* CHF.png */; };
-		AF383D6F229870DC000C07CF /* XDR.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AF383D4B229870DC000C07CF /* XDR.jpg */; };
-		AF383D70229870DC000C07CF /* KRW.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D4C229870DC000C07CF /* KRW.png */; };
-		AF383D71229870DC000C07CF /* HUF.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D4D229870DC000C07CF /* HUF.png */; };
-		AF383D72229870DC000C07CF /* KGS.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D4E229870DC000C07CF /* KGS.png */; };
-		AF383D73229870DC000C07CF /* NOK.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D4F229870DC000C07CF /* NOK.png */; };
-		AF383D74229870DC000C07CF /* MDL.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D50229870DC000C07CF /* MDL.png */; };
-		AF383D75229870DC000C07CF /* TJS.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D51229870DC000C07CF /* TJS.png */; };
-		AF383D76229870DC000C07CF /* SEK.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D52229870DC000C07CF /* SEK.png */; };
-		AF383D77229870DC000C07CF /* RUR.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D53229870DC000C07CF /* RUR.png */; };
-		AF383D78229870DC000C07CF /* SGD.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D54229870DC000C07CF /* SGD.png */; };
-		AF383D79229870DC000C07CF /* GBP.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D55229870DC000C07CF /* GBP.png */; };
-		AF383D7A229870DC000C07CF /* BGN.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D56229870DC000C07CF /* BGN.png */; };
-		AF383D7B229870DC000C07CF /* RON.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D57229870DC000C07CF /* RON.png */; };
-		AF383D7C229870DC000C07CF /* JPY.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D58229870DC000C07CF /* JPY.png */; };
-		AF383D7D229870DC000C07CF /* DKK.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D59229870DC000C07CF /* DKK.png */; };
-		AF383D7E229870DC000C07CF /* USD.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D5A229870DC000C07CF /* USD.png */; };
-		AF383D7F229870DC000C07CF /* BRL.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D5B229870DC000C07CF /* BRL.png */; };
-		AF383D80229870DC000C07CF /* TMT.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D5C229870DC000C07CF /* TMT.png */; };
-		AF383D81229870DC000C07CF /* KZT.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D5D229870DC000C07CF /* KZT.png */; };
-		AF383D82229870DC000C07CF /* PLN.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D5E229870DC000C07CF /* PLN.png */; };
-		AF383D83229870DC000C07CF /* INR.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D5F229870DC000C07CF /* INR.png */; };
-		AF383D84229870DC000C07CF /* CZK.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D60229870DC000C07CF /* CZK.png */; };
-		AF383D85229870DC000C07CF /* CNY.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D61229870DC000C07CF /* CNY.png */; };
-		AF383D86229870DC000C07CF /* AUD.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D62229870DC000C07CF /* AUD.png */; };
-		AF383D87229870DC000C07CF /* AZN.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D63229870DC000C07CF /* AZN.png */; };
-		AF383D88229870DC000C07CF /* EUR.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D64229870DC000C07CF /* EUR.png */; };
-		AF383D89229870DC000C07CF /* ZAR.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D65229870DC000C07CF /* ZAR.png */; };
-		AF383D8A229870DC000C07CF /* AMD.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D66229870DC000C07CF /* AMD.png */; };
-		AF383D8B229870DC000C07CF /* CAD.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D67229870DC000C07CF /* CAD.png */; };
-		AF383D8C229870DC000C07CF /* UZS.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D68229870DC000C07CF /* UZS.png */; };
-		AF383D8D229870DC000C07CF /* BYR.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D69229870DC000C07CF /* BYR.png */; };
-		AF383D8E229870DC000C07CF /* LTL.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D6A229870DC000C07CF /* LTL.png */; };
-		AF383D8F229870DC000C07CF /* TRY.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D6B229870DC000C07CF /* TRY.png */; };
-		AF383D90229870DC000C07CF /* UAH.png in Resources */ = {isa = PBXBuildFile; fileRef = AF383D6C229870DC000C07CF /* UAH.png */; };
+		AF383D9422988380000C07CF /* CourseCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF383D9322988380000C07CF /* CourseCell.swift */; };
 		AF5B2DA622932674006EAA71 /* SettingsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5B2DA522932674006EAA71 /* SettingsController.swift */; };
 		AF908ACA2295C2740000003F /* ConvertorController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF908AC92295C2740000003F /* ConvertorController.swift */; };
 		AFB2CAB1229719F9001F8970 /* SelectCurrencyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB2CAB0229719F9001F8970 /* SelectCurrencyViewController.swift */; };
+		AFBA37812299716700DEAFA3 /* App.png in Resources */ = {isa = PBXBuildFile; fileRef = AFBA37802299716700DEAFA3 /* App.png */; };
+		AFCBF03F2299A70E00A6601C /* CHF.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF01C2299A70E00A6601C /* CHF.png */; };
+		AFCBF0402299A70E00A6601C /* XDR.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF01D2299A70E00A6601C /* XDR.png */; };
+		AFCBF0412299A70E00A6601C /* BYN.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF01E2299A70E00A6601C /* BYN.png */; };
+		AFCBF0422299A70E00A6601C /* KRW.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF01F2299A70E00A6601C /* KRW.png */; };
+		AFCBF0432299A70E00A6601C /* HUF.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0202299A70E00A6601C /* HUF.png */; };
+		AFCBF0442299A70E00A6601C /* KGS.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0212299A70E00A6601C /* KGS.png */; };
+		AFCBF0452299A70E00A6601C /* NOK.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0222299A70E00A6601C /* NOK.png */; };
+		AFCBF0462299A70E00A6601C /* MDL.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0232299A70E00A6601C /* MDL.png */; };
+		AFCBF0472299A70E00A6601C /* TJS.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0242299A70E00A6601C /* TJS.png */; };
+		AFCBF0482299A70E00A6601C /* SEK.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0252299A70E00A6601C /* SEK.png */; };
+		AFCBF0492299A70E00A6601C /* RUR.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0262299A70E00A6601C /* RUR.png */; };
+		AFCBF04A2299A70E00A6601C /* SGD.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0272299A70E00A6601C /* SGD.png */; };
+		AFCBF04B2299A70E00A6601C /* GBP.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0282299A70E00A6601C /* GBP.png */; };
+		AFCBF04C2299A70E00A6601C /* BGN.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0292299A70E00A6601C /* BGN.png */; };
+		AFCBF04D2299A70E00A6601C /* RON.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF02A2299A70E00A6601C /* RON.png */; };
+		AFCBF04E2299A70E00A6601C /* JPY.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF02B2299A70E00A6601C /* JPY.png */; };
+		AFCBF04F2299A70E00A6601C /* DKK.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF02C2299A70E00A6601C /* DKK.png */; };
+		AFCBF0502299A70E00A6601C /* HKD.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF02D2299A70E00A6601C /* HKD.png */; };
+		AFCBF0512299A70E00A6601C /* USD.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF02E2299A70E00A6601C /* USD.png */; };
+		AFCBF0522299A70E00A6601C /* BRL.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF02F2299A70E00A6601C /* BRL.png */; };
+		AFCBF0532299A70E00A6601C /* TMT.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0302299A70E00A6601C /* TMT.png */; };
+		AFCBF0542299A70E00A6601C /* KZT.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0312299A70E00A6601C /* KZT.png */; };
+		AFCBF0552299A70E00A6601C /* PLN.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0322299A70E00A6601C /* PLN.png */; };
+		AFCBF0562299A70E00A6601C /* INR.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0332299A70E00A6601C /* INR.png */; };
+		AFCBF0572299A70E00A6601C /* CZK.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0342299A70E00A6601C /* CZK.png */; };
+		AFCBF0582299A70E00A6601C /* CNY.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0352299A70E00A6601C /* CNY.png */; };
+		AFCBF0592299A70E00A6601C /* AUD.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0362299A70E00A6601C /* AUD.png */; };
+		AFCBF05A2299A70E00A6601C /* AZN.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0372299A70E00A6601C /* AZN.png */; };
+		AFCBF05B2299A70E00A6601C /* EUR.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0382299A70E00A6601C /* EUR.png */; };
+		AFCBF05C2299A70E00A6601C /* ZAR.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF0392299A70E00A6601C /* ZAR.png */; };
+		AFCBF05D2299A70E00A6601C /* AMD.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF03A2299A70E00A6601C /* AMD.png */; };
+		AFCBF05E2299A70E00A6601C /* CAD.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF03B2299A70E00A6601C /* CAD.png */; };
+		AFCBF05F2299A70E00A6601C /* UZS.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF03C2299A70E00A6601C /* UZS.png */; };
+		AFCBF0602299A70E00A6601C /* TRY.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF03D2299A70E00A6601C /* TRY.png */; };
+		AFCBF0612299A70E00A6601C /* UAH.png in Resources */ = {isa = PBXBuildFile; fileRef = AFCBF03E2299A70E00A6601C /* UAH.png */; };
 		AFEEBF122291618900EB5798 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFEEBF112291618900EB5798 /* AppDelegate.swift */; };
 		AFEEBF172291618900EB5798 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AFEEBF152291618900EB5798 /* Main.storyboard */; };
 		AFEEBF192291618B00EB5798 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AFEEBF182291618B00EB5798 /* Assets.xcassets */; };
@@ -56,45 +57,46 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		AF383D49229870DC000C07CF /* LVL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LVL.png; sourceTree = "<group>"; };
-		AF383D4A229870DC000C07CF /* CHF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CHF.png; sourceTree = "<group>"; };
-		AF383D4B229870DC000C07CF /* XDR.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = XDR.jpg; sourceTree = "<group>"; };
-		AF383D4C229870DC000C07CF /* KRW.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KRW.png; sourceTree = "<group>"; };
-		AF383D4D229870DC000C07CF /* HUF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HUF.png; sourceTree = "<group>"; };
-		AF383D4E229870DC000C07CF /* KGS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KGS.png; sourceTree = "<group>"; };
-		AF383D4F229870DC000C07CF /* NOK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NOK.png; sourceTree = "<group>"; };
-		AF383D50229870DC000C07CF /* MDL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MDL.png; sourceTree = "<group>"; };
-		AF383D51229870DC000C07CF /* TJS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TJS.png; sourceTree = "<group>"; };
-		AF383D52229870DC000C07CF /* SEK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SEK.png; sourceTree = "<group>"; };
-		AF383D53229870DC000C07CF /* RUR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RUR.png; sourceTree = "<group>"; };
-		AF383D54229870DC000C07CF /* SGD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SGD.png; sourceTree = "<group>"; };
-		AF383D55229870DC000C07CF /* GBP.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GBP.png; sourceTree = "<group>"; };
-		AF383D56229870DC000C07CF /* BGN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BGN.png; sourceTree = "<group>"; };
-		AF383D57229870DC000C07CF /* RON.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RON.png; sourceTree = "<group>"; };
-		AF383D58229870DC000C07CF /* JPY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JPY.png; sourceTree = "<group>"; };
-		AF383D59229870DC000C07CF /* DKK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DKK.png; sourceTree = "<group>"; };
-		AF383D5A229870DC000C07CF /* USD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = USD.png; sourceTree = "<group>"; };
-		AF383D5B229870DC000C07CF /* BRL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BRL.png; sourceTree = "<group>"; };
-		AF383D5C229870DC000C07CF /* TMT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TMT.png; sourceTree = "<group>"; };
-		AF383D5D229870DC000C07CF /* KZT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KZT.png; sourceTree = "<group>"; };
-		AF383D5E229870DC000C07CF /* PLN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PLN.png; sourceTree = "<group>"; };
-		AF383D5F229870DC000C07CF /* INR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = INR.png; sourceTree = "<group>"; };
-		AF383D60229870DC000C07CF /* CZK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CZK.png; sourceTree = "<group>"; };
-		AF383D61229870DC000C07CF /* CNY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CNY.png; sourceTree = "<group>"; };
-		AF383D62229870DC000C07CF /* AUD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AUD.png; sourceTree = "<group>"; };
-		AF383D63229870DC000C07CF /* AZN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AZN.png; sourceTree = "<group>"; };
-		AF383D64229870DC000C07CF /* EUR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = EUR.png; sourceTree = "<group>"; };
-		AF383D65229870DC000C07CF /* ZAR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ZAR.png; sourceTree = "<group>"; };
-		AF383D66229870DC000C07CF /* AMD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AMD.png; sourceTree = "<group>"; };
-		AF383D67229870DC000C07CF /* CAD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CAD.png; sourceTree = "<group>"; };
-		AF383D68229870DC000C07CF /* UZS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UZS.png; sourceTree = "<group>"; };
-		AF383D69229870DC000C07CF /* BYR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BYR.png; sourceTree = "<group>"; };
-		AF383D6A229870DC000C07CF /* LTL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LTL.png; sourceTree = "<group>"; };
-		AF383D6B229870DC000C07CF /* TRY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TRY.png; sourceTree = "<group>"; };
-		AF383D6C229870DC000C07CF /* UAH.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UAH.png; sourceTree = "<group>"; };
+		AF383D9322988380000C07CF /* CourseCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseCell.swift; sourceTree = "<group>"; };
 		AF5B2DA522932674006EAA71 /* SettingsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsController.swift; sourceTree = "<group>"; };
 		AF908AC92295C2740000003F /* ConvertorController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertorController.swift; sourceTree = "<group>"; };
 		AFB2CAB0229719F9001F8970 /* SelectCurrencyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectCurrencyViewController.swift; sourceTree = "<group>"; };
+		AFBA37802299716700DEAFA3 /* App.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = App.png; sourceTree = "<group>"; };
+		AFCBF01C2299A70E00A6601C /* CHF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CHF.png; sourceTree = "<group>"; };
+		AFCBF01D2299A70E00A6601C /* XDR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XDR.png; sourceTree = "<group>"; };
+		AFCBF01E2299A70E00A6601C /* BYN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BYN.png; sourceTree = "<group>"; };
+		AFCBF01F2299A70E00A6601C /* KRW.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KRW.png; sourceTree = "<group>"; };
+		AFCBF0202299A70E00A6601C /* HUF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HUF.png; sourceTree = "<group>"; };
+		AFCBF0212299A70E00A6601C /* KGS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KGS.png; sourceTree = "<group>"; };
+		AFCBF0222299A70E00A6601C /* NOK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NOK.png; sourceTree = "<group>"; };
+		AFCBF0232299A70E00A6601C /* MDL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MDL.png; sourceTree = "<group>"; };
+		AFCBF0242299A70E00A6601C /* TJS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TJS.png; sourceTree = "<group>"; };
+		AFCBF0252299A70E00A6601C /* SEK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SEK.png; sourceTree = "<group>"; };
+		AFCBF0262299A70E00A6601C /* RUR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RUR.png; sourceTree = "<group>"; };
+		AFCBF0272299A70E00A6601C /* SGD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SGD.png; sourceTree = "<group>"; };
+		AFCBF0282299A70E00A6601C /* GBP.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GBP.png; sourceTree = "<group>"; };
+		AFCBF0292299A70E00A6601C /* BGN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BGN.png; sourceTree = "<group>"; };
+		AFCBF02A2299A70E00A6601C /* RON.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RON.png; sourceTree = "<group>"; };
+		AFCBF02B2299A70E00A6601C /* JPY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JPY.png; sourceTree = "<group>"; };
+		AFCBF02C2299A70E00A6601C /* DKK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DKK.png; sourceTree = "<group>"; };
+		AFCBF02D2299A70E00A6601C /* HKD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HKD.png; sourceTree = "<group>"; };
+		AFCBF02E2299A70E00A6601C /* USD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = USD.png; sourceTree = "<group>"; };
+		AFCBF02F2299A70E00A6601C /* BRL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BRL.png; sourceTree = "<group>"; };
+		AFCBF0302299A70E00A6601C /* TMT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TMT.png; sourceTree = "<group>"; };
+		AFCBF0312299A70E00A6601C /* KZT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KZT.png; sourceTree = "<group>"; };
+		AFCBF0322299A70E00A6601C /* PLN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PLN.png; sourceTree = "<group>"; };
+		AFCBF0332299A70E00A6601C /* INR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = INR.png; sourceTree = "<group>"; };
+		AFCBF0342299A70E00A6601C /* CZK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CZK.png; sourceTree = "<group>"; };
+		AFCBF0352299A70E00A6601C /* CNY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CNY.png; sourceTree = "<group>"; };
+		AFCBF0362299A70E00A6601C /* AUD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AUD.png; sourceTree = "<group>"; };
+		AFCBF0372299A70E00A6601C /* AZN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AZN.png; sourceTree = "<group>"; };
+		AFCBF0382299A70E00A6601C /* EUR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = EUR.png; sourceTree = "<group>"; };
+		AFCBF0392299A70E00A6601C /* ZAR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ZAR.png; sourceTree = "<group>"; };
+		AFCBF03A2299A70E00A6601C /* AMD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AMD.png; sourceTree = "<group>"; };
+		AFCBF03B2299A70E00A6601C /* CAD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CAD.png; sourceTree = "<group>"; };
+		AFCBF03C2299A70E00A6601C /* UZS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UZS.png; sourceTree = "<group>"; };
+		AFCBF03D2299A70E00A6601C /* TRY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TRY.png; sourceTree = "<group>"; };
+		AFCBF03E2299A70E00A6601C /* UAH.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UAH.png; sourceTree = "<group>"; };
 		AFEEBF0E2291618900EB5798 /* CurrencyCoures.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CurrencyCoures.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFEEBF112291618900EB5798 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AFEEBF162291618900EB5798 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -117,47 +119,46 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		AF383D48229870DC000C07CF /* flagsImages */ = {
+		AFCBF01B2299A70E00A6601C /* flags */ = {
 			isa = PBXGroup;
 			children = (
-				AF383D49229870DC000C07CF /* LVL.png */,
-				AF383D4A229870DC000C07CF /* CHF.png */,
-				AF383D4B229870DC000C07CF /* XDR.jpg */,
-				AF383D4C229870DC000C07CF /* KRW.png */,
-				AF383D4D229870DC000C07CF /* HUF.png */,
-				AF383D4E229870DC000C07CF /* KGS.png */,
-				AF383D4F229870DC000C07CF /* NOK.png */,
-				AF383D50229870DC000C07CF /* MDL.png */,
-				AF383D51229870DC000C07CF /* TJS.png */,
-				AF383D52229870DC000C07CF /* SEK.png */,
-				AF383D53229870DC000C07CF /* RUR.png */,
-				AF383D54229870DC000C07CF /* SGD.png */,
-				AF383D55229870DC000C07CF /* GBP.png */,
-				AF383D56229870DC000C07CF /* BGN.png */,
-				AF383D57229870DC000C07CF /* RON.png */,
-				AF383D58229870DC000C07CF /* JPY.png */,
-				AF383D59229870DC000C07CF /* DKK.png */,
-				AF383D5A229870DC000C07CF /* USD.png */,
-				AF383D5B229870DC000C07CF /* BRL.png */,
-				AF383D5C229870DC000C07CF /* TMT.png */,
-				AF383D5D229870DC000C07CF /* KZT.png */,
-				AF383D5E229870DC000C07CF /* PLN.png */,
-				AF383D5F229870DC000C07CF /* INR.png */,
-				AF383D60229870DC000C07CF /* CZK.png */,
-				AF383D61229870DC000C07CF /* CNY.png */,
-				AF383D62229870DC000C07CF /* AUD.png */,
-				AF383D63229870DC000C07CF /* AZN.png */,
-				AF383D64229870DC000C07CF /* EUR.png */,
-				AF383D65229870DC000C07CF /* ZAR.png */,
-				AF383D66229870DC000C07CF /* AMD.png */,
-				AF383D67229870DC000C07CF /* CAD.png */,
-				AF383D68229870DC000C07CF /* UZS.png */,
-				AF383D69229870DC000C07CF /* BYR.png */,
-				AF383D6A229870DC000C07CF /* LTL.png */,
-				AF383D6B229870DC000C07CF /* TRY.png */,
-				AF383D6C229870DC000C07CF /* UAH.png */,
+				AFCBF01C2299A70E00A6601C /* CHF.png */,
+				AFCBF01D2299A70E00A6601C /* XDR.png */,
+				AFCBF01E2299A70E00A6601C /* BYN.png */,
+				AFCBF01F2299A70E00A6601C /* KRW.png */,
+				AFCBF0202299A70E00A6601C /* HUF.png */,
+				AFCBF0212299A70E00A6601C /* KGS.png */,
+				AFCBF0222299A70E00A6601C /* NOK.png */,
+				AFCBF0232299A70E00A6601C /* MDL.png */,
+				AFCBF0242299A70E00A6601C /* TJS.png */,
+				AFCBF0252299A70E00A6601C /* SEK.png */,
+				AFCBF0262299A70E00A6601C /* RUR.png */,
+				AFCBF0272299A70E00A6601C /* SGD.png */,
+				AFCBF0282299A70E00A6601C /* GBP.png */,
+				AFCBF0292299A70E00A6601C /* BGN.png */,
+				AFCBF02A2299A70E00A6601C /* RON.png */,
+				AFCBF02B2299A70E00A6601C /* JPY.png */,
+				AFCBF02C2299A70E00A6601C /* DKK.png */,
+				AFCBF02D2299A70E00A6601C /* HKD.png */,
+				AFCBF02E2299A70E00A6601C /* USD.png */,
+				AFCBF02F2299A70E00A6601C /* BRL.png */,
+				AFCBF0302299A70E00A6601C /* TMT.png */,
+				AFCBF0312299A70E00A6601C /* KZT.png */,
+				AFCBF0322299A70E00A6601C /* PLN.png */,
+				AFCBF0332299A70E00A6601C /* INR.png */,
+				AFCBF0342299A70E00A6601C /* CZK.png */,
+				AFCBF0352299A70E00A6601C /* CNY.png */,
+				AFCBF0362299A70E00A6601C /* AUD.png */,
+				AFCBF0372299A70E00A6601C /* AZN.png */,
+				AFCBF0382299A70E00A6601C /* EUR.png */,
+				AFCBF0392299A70E00A6601C /* ZAR.png */,
+				AFCBF03A2299A70E00A6601C /* AMD.png */,
+				AFCBF03B2299A70E00A6601C /* CAD.png */,
+				AFCBF03C2299A70E00A6601C /* UZS.png */,
+				AFCBF03D2299A70E00A6601C /* TRY.png */,
+				AFCBF03E2299A70E00A6601C /* UAH.png */,
 			);
-			path = flagsImages;
+			path = flags;
 			sourceTree = "<group>";
 		};
 		AFEEBF052291618900EB5798 = {
@@ -186,10 +187,12 @@
 				AF908AC92295C2740000003F /* ConvertorController.swift */,
 				AFEEBF252291624200EB5798 /* Model.swift */,
 				AFEEBF292291C9B500EB5798 /* CoursesController.swift */,
+				AF383D9322988380000C07CF /* CourseCell.swift */,
 				AFEEBF182291618B00EB5798 /* Assets.xcassets */,
 				AFEEBF1A2291618B00EB5798 /* LaunchScreen.storyboard */,
-				AF383D48229870DC000C07CF /* flagsImages */,
 				AFEEBF272291C1E800EB5798 /* data.xml */,
+				AFCBF01B2299A70E00A6601C /* flags */,
+				AFBA37802299716700DEAFA3 /* App.png */,
 				AFEEBF1D2291618B00EB5798 /* Info.plist */,
 			);
 			path = CurrencyCoures;
@@ -253,46 +256,46 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AF383D8F229870DC000C07CF /* TRY.png in Resources */,
-				AF383D7D229870DC000C07CF /* DKK.png in Resources */,
+				AFCBF0602299A70E00A6601C /* TRY.png in Resources */,
+				AFCBF0552299A70E00A6601C /* PLN.png in Resources */,
+				AFCBF04E2299A70E00A6601C /* JPY.png in Resources */,
+				AFCBF05F2299A70E00A6601C /* UZS.png in Resources */,
 				AFEEBF1C2291618B00EB5798 /* LaunchScreen.storyboard in Resources */,
-				AF383D7C229870DC000C07CF /* JPY.png in Resources */,
-				AF383D83229870DC000C07CF /* INR.png in Resources */,
-				AF383D7F229870DC000C07CF /* BRL.png in Resources */,
-				AF383D8B229870DC000C07CF /* CAD.png in Resources */,
-				AF383D72229870DC000C07CF /* KGS.png in Resources */,
-				AF383D88229870DC000C07CF /* EUR.png in Resources */,
-				AF383D84229870DC000C07CF /* CZK.png in Resources */,
 				AFEEBF282291C1E800EB5798 /* data.xml in Resources */,
-				AF383D74229870DC000C07CF /* MDL.png in Resources */,
-				AF383D8A229870DC000C07CF /* AMD.png in Resources */,
-				AF383D81229870DC000C07CF /* KZT.png in Resources */,
+				AFCBF05C2299A70E00A6601C /* ZAR.png in Resources */,
+				AFBA37812299716700DEAFA3 /* App.png in Resources */,
+				AFCBF0492299A70E00A6601C /* RUR.png in Resources */,
+				AFCBF0472299A70E00A6601C /* TJS.png in Resources */,
+				AFCBF0512299A70E00A6601C /* USD.png in Resources */,
+				AFCBF04A2299A70E00A6601C /* SGD.png in Resources */,
+				AFCBF05E2299A70E00A6601C /* CAD.png in Resources */,
+				AFCBF0432299A70E00A6601C /* HUF.png in Resources */,
+				AFCBF0582299A70E00A6601C /* CNY.png in Resources */,
+				AFCBF05D2299A70E00A6601C /* AMD.png in Resources */,
+				AFCBF0532299A70E00A6601C /* TMT.png in Resources */,
+				AFCBF0442299A70E00A6601C /* KGS.png in Resources */,
+				AFCBF04C2299A70E00A6601C /* BGN.png in Resources */,
+				AFCBF0482299A70E00A6601C /* SEK.png in Resources */,
+				AFCBF0562299A70E00A6601C /* INR.png in Resources */,
+				AFCBF0522299A70E00A6601C /* BRL.png in Resources */,
+				AFCBF04B2299A70E00A6601C /* GBP.png in Resources */,
+				AFCBF0542299A70E00A6601C /* KZT.png in Resources */,
+				AFCBF0612299A70E00A6601C /* UAH.png in Resources */,
+				AFCBF0572299A70E00A6601C /* CZK.png in Resources */,
+				AFCBF0592299A70E00A6601C /* AUD.png in Resources */,
+				AFCBF0422299A70E00A6601C /* KRW.png in Resources */,
+				AFCBF0452299A70E00A6601C /* NOK.png in Resources */,
+				AFCBF0412299A70E00A6601C /* BYN.png in Resources */,
+				AFCBF05A2299A70E00A6601C /* AZN.png in Resources */,
+				AFCBF03F2299A70E00A6601C /* CHF.png in Resources */,
+				AFCBF05B2299A70E00A6601C /* EUR.png in Resources */,
+				AFCBF0502299A70E00A6601C /* HKD.png in Resources */,
+				AFCBF04F2299A70E00A6601C /* DKK.png in Resources */,
+				AFCBF0402299A70E00A6601C /* XDR.png in Resources */,
 				AFEEBF192291618B00EB5798 /* Assets.xcassets in Resources */,
-				AF383D76229870DC000C07CF /* SEK.png in Resources */,
-				AF383D7B229870DC000C07CF /* RON.png in Resources */,
-				AF383D79229870DC000C07CF /* GBP.png in Resources */,
-				AF383D77229870DC000C07CF /* RUR.png in Resources */,
-				AF383D8D229870DC000C07CF /* BYR.png in Resources */,
-				AF383D6E229870DC000C07CF /* CHF.png in Resources */,
-				AF383D7A229870DC000C07CF /* BGN.png in Resources */,
-				AF383D78229870DC000C07CF /* SGD.png in Resources */,
-				AF383D86229870DC000C07CF /* AUD.png in Resources */,
-				AF383D90229870DC000C07CF /* UAH.png in Resources */,
-				AF383D80229870DC000C07CF /* TMT.png in Resources */,
-				AF383D87229870DC000C07CF /* AZN.png in Resources */,
-				AF383D8C229870DC000C07CF /* UZS.png in Resources */,
-				AF383D73229870DC000C07CF /* NOK.png in Resources */,
-				AF383D6F229870DC000C07CF /* XDR.jpg in Resources */,
-				AF383D7E229870DC000C07CF /* USD.png in Resources */,
+				AFCBF04D2299A70E00A6601C /* RON.png in Resources */,
+				AFCBF0462299A70E00A6601C /* MDL.png in Resources */,
 				AFEEBF172291618900EB5798 /* Main.storyboard in Resources */,
-				AF383D8E229870DC000C07CF /* LTL.png in Resources */,
-				AF383D71229870DC000C07CF /* HUF.png in Resources */,
-				AF383D89229870DC000C07CF /* ZAR.png in Resources */,
-				AF383D82229870DC000C07CF /* PLN.png in Resources */,
-				AF383D70229870DC000C07CF /* KRW.png in Resources */,
-				AF383D75229870DC000C07CF /* TJS.png in Resources */,
-				AF383D6D229870DC000C07CF /* LVL.png in Resources */,
-				AF383D85229870DC000C07CF /* CNY.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,6 +309,7 @@
 				AF5B2DA622932674006EAA71 /* SettingsController.swift in Sources */,
 				AF908ACA2295C2740000003F /* ConvertorController.swift in Sources */,
 				AFEEBF2A2291C9B500EB5798 /* CoursesController.swift in Sources */,
+				AF383D9422988380000C07CF /* CourseCell.swift in Sources */,
 				AFB2CAB1229719F9001F8970 /* SelectCurrencyViewController.swift in Sources */,
 				AFEEBF262291624200EB5798 /* Model.swift in Sources */,
 				AFEEBF122291618900EB5798 /* AppDelegate.swift in Sources */,
@@ -455,6 +459,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 48CRVYC2Q2;
 				INFOPLIST_FILE = CurrencyCoures/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -472,6 +477,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 48CRVYC2Q2;
 				INFOPLIST_FILE = CurrencyCoures/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

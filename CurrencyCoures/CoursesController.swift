@@ -52,6 +52,10 @@ class CoursesController: UITableViewController {
         navigationItem.title = Model.shared.currentDate
         Model.shared.loadXMLFile(date: nil)
     }
+    
+//    override func viewDidAppear(_ animated: Bool) {
+//        Model.shared.loadXMLFile(date: nil)
+//    }
 
     // MARK: - Table view data source
 
@@ -64,14 +68,15 @@ class CoursesController: UITableViewController {
     }
 
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "Cell", for: indexPath)
+        
+        let cell = tableView.dequeueReusableCell(withIdentifier: "Cell", for: indexPath) as! CourseCell
         
         let courseForCell = Model.shared.currencies[indexPath.row]
         
-//        cell.initCell(currency: courseForCell)
+        cell.initCell(currency: courseForCell)
         
-        cell.textLabel?.text = courseForCell.Name
-        cell.detailTextLabel?.text = courseForCell.Value
+//        cell.textLabel?.text = courseForCell.Name
+//        cell.detailTextLabel?.text = courseForCell.Value
         return cell
     }
 

@@ -18,8 +18,8 @@ class Currency {
     var valueDouble: Double?
     
     var imageFlag: UIImage? {
-        if let CharCode = CharCode {
-            return UIImage(named: CharCode)
+        if let CharCode = CharCode{
+            return UIImage(named: CharCode + ".png")
         }
         return nil
     }
@@ -54,7 +54,7 @@ class Model: NSObject, XMLParserDelegate {
         
         let d = ((fromCurrency.nominalDouble! * fromCurrency.valueDouble!) / (fromCurrency.nominalDouble! * toCurrency.valueDouble!)) * amount!
         
-        return String(d)
+        return String(format: "%.2f", Double(d) as CVarArg? ?? "0")
         
     }
     
@@ -181,7 +181,7 @@ class Model: NSObject, XMLParserDelegate {
         }
         
         if elementName == "Value" {
-            currentCurrency?.Value = currentCharacters
+            currentCurrency?.Value = String(format: "%.2f", Double(currentCharacters.replacingOccurrences(of: ",", with: ".")) as CVarArg? ?? "0")
             currentCurrency?.valueDouble = Double(currentCharacters.replacingOccurrences(of: ",", with: "."))
         }
         
